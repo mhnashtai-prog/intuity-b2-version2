@@ -1,1 +1,840 @@
 
+{
+  "metadata": {
+    "title": "First Certificate English - Multiple Choice Questions",
+    "description": "Comprehensive collection of sentence completion questions extracted from FCE practice tests",
+    "totalSets": 15,
+    "questionsPerSet": 8,
+    "totalQuestions": 120,
+    "difficulty": "Intermediate to Upper-Intermediate",
+    "created": "2025-01-14",
+    "notes": "Questions with 5 options reduced to 4 options. Removed options that don't affect correct answers."
+  },
+  "testSets": [
+    {
+      "setId": 1,
+      "title": "Grammar & Vocabulary - Set 1",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "She heard a ____ at the door and went to see who was outside.",
+          "options": ["hit", "knock", "lean", "strike"],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "sentence": "A young art student acted as our ____ when we visited the National Gallery.",
+          "options": ["coach", "conductor", "guide", "lead"],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "sentence": "Please ____ your bill before you leave the shop and make sure that it is correct.",
+          "options": ["check", "control", "esteem", "figure"],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "sentence": "If you hear the baby ____, please tell me.",
+          "options": ["cry", "say", "shout", "weep"],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "sentence": "The bus conductor told him to get off because he couldn't pay the ____.",
+          "options": ["bill", "fare", "fee", "journey"],
+          "correct": 1
+        },
+        {
+          "id": 6,
+          "sentence": "I felt a sharp ____ when I put my hand in the boiling water.",
+          "options": ["ache", "harm", "hurt", "pain"],
+          "correct": 3
+        },
+        {
+          "id": 7,
+          "sentence": "I am very fond of Graham Greene's novels. He is my ____ modern author.",
+          "options": ["favoured", "favourite", "likely", "popular"],
+          "correct": 1
+        },
+        {
+          "id": 8,
+          "sentence": "She chose some attractive ____ paper for the Christmas present.",
+          "options": ["covering", "envelope", "involving", "packing"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 2,
+      "title": "Daily Life & Communication - Set 2",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 9,
+          "sentence": "It's rude to interrupt when someone else is ____.",
+          "options": ["discussing", "remarking", "saying", "talking"],
+          "correct": 3
+        },
+        {
+          "id": 10,
+          "sentence": "Look, Mother! Jack has ____ you some flowers.",
+          "options": ["brought", "carried", "lifted", "present"],
+          "correct": 0
+        },
+        {
+          "id": 11,
+          "sentence": "He was sent to prison for ____ a bank.",
+          "options": ["borrowing", "lending", "robbing", "stealing"],
+          "correct": 2
+        },
+        {
+          "id": 12,
+          "sentence": "She bought a new ____ for the party.",
+          "options": ["clothes", "clothing", "dress", "vest"],
+          "correct": 2
+        },
+        {
+          "id": 13,
+          "sentence": "My favourite ____ is roast beef.",
+          "options": ["dish", "eat", "menu", "plate"],
+          "correct": 0
+        },
+        {
+          "id": 14,
+          "sentence": "Several of the explorers did not survive the terrible ____ across the desert.",
+          "options": ["excursion", "journey", "step", "travel"],
+          "correct": 1
+        },
+        {
+          "id": 15,
+          "sentence": "What a beautiful dress! It ____ you perfectly.",
+          "options": ["goes", "likes", "matches", "mixes"],
+          "correct": 2
+        },
+        {
+          "id": 16,
+          "sentence": "As the two teams were ____ at the end of the game, they had to play again.",
+          "options": ["correct", "equal", "exact", "fair"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "setId": 3,
+      "title": "Business & Work - Set 3",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 17,
+          "sentence": "The company made a record ____ last year.",
+          "options": ["benefit", "earn", "profit", "wage"],
+          "correct": 2
+        },
+        {
+          "id": 18,
+          "sentence": "These cars originally had two doors but the latest ____ has four.",
+          "options": ["brand", "mark", "model", "pattern"],
+          "correct": 2
+        },
+        {
+          "id": 19,
+          "sentence": "He was killed in a car ____.",
+          "options": ["blow", "crash", "flash", "hit"],
+          "correct": 1
+        },
+        {
+          "id": 20,
+          "sentence": "He's a nice man but he's ____ to drink too much at parties.",
+          "options": ["adequate", "apt", "common", "probable"],
+          "correct": 1
+        },
+        {
+          "id": 21,
+          "sentence": "He has a bad cold and won't be ____ to play in the match tomorrow.",
+          "options": ["adequate", "appropriate", "fit", "proper"],
+          "correct": 2
+        },
+        {
+          "id": 22,
+          "sentence": "They ____ our team by three goals to one.",
+          "options": ["beat", "conquered", "earned", "gained"],
+          "correct": 0
+        },
+        {
+          "id": 23,
+          "sentence": "He works at a big steel ____ outside the town.",
+          "options": ["fabric", "factory", "industry", "product"],
+          "correct": 1
+        },
+        {
+          "id": 24,
+          "sentence": "I congratulated him on winning the ____.",
+          "options": ["match", "play", "practice", "recital"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "setId": 4,
+      "title": "Housing & Services - Set 4",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 25,
+          "sentence": "The ____ outside the house said 'Private'.",
+          "options": ["advice", "label", "notice", "signal"],
+          "correct": 2
+        },
+        {
+          "id": 26,
+          "sentence": "Are you going to ____ your house in London while you are abroad?",
+          "options": ["dispose", "hire", "let", "remove"],
+          "correct": 2
+        },
+        {
+          "id": 27,
+          "sentence": "How unkind of him to ____ to help you!",
+          "options": ["agree", "admit", "deny", "ignore"],
+          "correct": 2
+        },
+        {
+          "id": 28,
+          "sentence": "Close the door, please! I don't like sitting in a ____.",
+          "options": ["blow", "current", "draught", "way"],
+          "correct": 2
+        },
+        {
+          "id": 29,
+          "sentence": "I had to stand in a ____ for hours to get the tickets for the performance.",
+          "options": ["file", "procession", "queue", "tail"],
+          "correct": 2
+        },
+        {
+          "id": 30,
+          "sentence": "When he was a boy his hobby was stamp ____.",
+          "options": ["assembly", "collecting", "finding", "gathering"],
+          "correct": 1
+        },
+        {
+          "id": 31,
+          "sentence": "He lost his ____ and threw a book at me.",
+          "options": ["feeling", "mood", "sense", "spirit"],
+          "correct": 1
+        },
+        {
+          "id": 32,
+          "sentence": "Some town children never saw grass or trees and could play only in a small ____.",
+          "options": ["field", "garden", "yard", "park"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 5,
+      "title": "Travel & Transport - Set 5",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 33,
+          "sentence": "We arrived at the ____ very late when everybody there was already asleep.",
+          "options": ["camp", "office", "station", "restaurant"],
+          "correct": 0
+        },
+        {
+          "id": 34,
+          "sentence": "He hung up his overcoat in the ____ as soon as he came into the house.",
+          "options": ["cellar", "attic", "hall", "ground floor"],
+          "correct": 2
+        },
+        {
+          "id": 35,
+          "sentence": "You'll be ____ your money if you buy that dress; you'll never wear it.",
+          "options": ["spending", "wasting", "giving away", "losing"],
+          "correct": 1
+        },
+        {
+          "id": 36,
+          "sentence": "The ____ between England and France can be very rough.",
+          "options": ["passage", "crossing", "travel", "drive"],
+          "correct": 1
+        },
+        {
+          "id": 37,
+          "sentence": "I ____ up before six o'clock this morning.",
+          "options": ["stood", "got", "rose", "awoke"],
+          "correct": 1
+        },
+        {
+          "id": 38,
+          "sentence": "It was very ____ of you to give me a lift.",
+          "options": ["useful", "friendly", "grateful", "kind"],
+          "correct": 3
+        },
+        {
+          "id": 39,
+          "sentence": "____ you don't hurry, you'll miss the train.",
+          "options": ["when", "if", "as", "even if"],
+          "correct": 1
+        },
+        {
+          "id": 40,
+          "sentence": "We went to the railway station to ____ our friends.",
+          "options": ["see off", "see out", "set out", "tell goodbye"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "setId": 6,
+      "title": "Education & Experience - Set 6",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 41,
+          "sentence": "Naturally I'm ____ that I didn't pass the examination but I'll do better next time.",
+          "options": ["deceived", "despaired", "disappointed", "disillusioned"],
+          "correct": 2
+        },
+        {
+          "id": 42,
+          "sentence": "He was the only person to ____ the crash. Everyone else was killed.",
+          "options": ["alive", "cure", "recover", "relieve"],
+          "correct": 0
+        },
+        {
+          "id": 43,
+          "sentence": "I ____ him to go to the Lost Property office to see if his umbrella had been found.",
+          "options": ["advertised", "advised", "announced", "noticed"],
+          "correct": 1
+        },
+        {
+          "id": 44,
+          "sentence": "I ____ in bed all night thinking about it.",
+          "options": ["lain", "lay", "led", "lied"],
+          "correct": 1
+        },
+        {
+          "id": 45,
+          "sentence": "It was on the top shelf, out of ____.",
+          "options": ["achievement", "arrival", "attempt", "reach"],
+          "correct": 3
+        },
+        {
+          "id": 46,
+          "sentence": "Before you take on the job, will you give me a rough ____ of how much it will cost?",
+          "options": ["esteem", "estimate", "realisation", "value"],
+          "correct": 1
+        },
+        {
+          "id": 47,
+          "sentence": "The competitors in the car rally had to follow the ____ laid down by the organisers.",
+          "options": ["address", "direct", "progress", "route"],
+          "correct": 3
+        },
+        {
+          "id": 48,
+          "sentence": "When the clock ____ twelve, we raised our glasses and drank to celebrate the New Year.",
+          "options": ["beat", "hit", "shot", "struck"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 7,
+      "title": "Health & Lifestyle - Set 7",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 49,
+          "sentence": "He had no way of making a fire so he had to eat the fish ____.",
+          "options": ["crude", "raw", "rough", "rude"],
+          "correct": 1
+        },
+        {
+          "id": 50,
+          "sentence": "It was so hot that I had to go indoors. I couldn't ____ it any longer.",
+          "options": ["carry", "hold", "pass", "stand"],
+          "correct": 3
+        },
+        {
+          "id": 51,
+          "sentence": "I've ____ had time to read the report so I can't give an opinion on it.",
+          "options": ["hard", "hardly", "nearly", "roughly"],
+          "correct": 1
+        },
+        {
+          "id": 52,
+          "sentence": "The concert was so ____ that the audience went to sleep.",
+          "options": ["bored", "boring", "exhausted", "tired"],
+          "correct": 1
+        },
+        {
+          "id": 53,
+          "sentence": "What a beautiful ____! It's a pity we have no flowers to put in it.",
+          "options": ["crystal", "cup", "glass", "mug"],
+          "correct": 2
+        },
+        {
+          "id": 54,
+          "sentence": "I wish I could ____ smoking.",
+          "options": ["give away", "give from", "give off", "give out"],
+          "correct": 2
+        },
+        {
+          "id": 55,
+          "sentence": "We'll have to ____ the meeting until next week because no one can come tomorrow.",
+          "options": ["put down", "put off", "put on", "put round"],
+          "correct": 1
+        },
+        {
+          "id": 56,
+          "sentence": "He will be given a pension when he ____ at the age of 65.",
+          "options": ["disappears", "dismisses", "resigns", "retires"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 8,
+      "title": "Personal Possessions - Set 8",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 57,
+          "sentence": "He took a ____ of cigarettes out of his pocket.",
+          "options": ["block", "dozen", "packet", "parcel"],
+          "correct": 2
+        },
+        {
+          "id": 58,
+          "sentence": "I'm sure you'll ____ the film. It's very good.",
+          "options": ["amuse", "delight", "divert", "enjoy"],
+          "correct": 3
+        },
+        {
+          "id": 59,
+          "sentence": "He fell in love with her at first ____.",
+          "options": ["scene", "sight", "spectacle", "view"],
+          "correct": 1
+        },
+        {
+          "id": 60,
+          "sentence": "I'm ____ if I hurt your feelings. Please forgive me.",
+          "options": ["afraid", "pardon", "pitiful", "shameful"],
+          "correct": 0
+        },
+        {
+          "id": 61,
+          "sentence": "The doctor has told him that he must not go back to work so soon after such a long ____.",
+          "options": ["disease", "failing", "illness", "pain"],
+          "correct": 2
+        },
+        {
+          "id": 62,
+          "sentence": "No one imagined that the apparently ____ business man was really a criminal.",
+          "options": ["honour", "respectable", "respectful", "respective"],
+          "correct": 1
+        },
+        {
+          "id": 63,
+          "sentence": "Where do you ____ the writing paper? In this desk?",
+          "options": ["drawer", "guard", "hold", "keep"],
+          "correct": 3
+        },
+        {
+          "id": 64,
+          "sentence": "Please ____ your hand if you want to ask a question.",
+          "options": ["arise", "get up", "put out", "raise"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 9,
+      "title": "Legal & Social Issues - Set 9",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 65,
+          "sentence": "As you are only 16, you must have your parents' ____ before you can get married.",
+          "options": ["allowance", "consent", "let", "permit"],
+          "correct": 1
+        },
+        {
+          "id": 66,
+          "sentence": "The bank are offering £500 ____ to anyone who can give them useful information about the robbery.",
+          "options": ["cost", "price", "prize", "reward"],
+          "correct": 3
+        },
+        {
+          "id": 67,
+          "sentence": "How long do you intend to ____ in this country?",
+          "options": ["permanent", "remind", "rest", "stay"],
+          "correct": 3
+        },
+        {
+          "id": 68,
+          "sentence": "She put a ____ of chocolate on the cake.",
+          "options": ["colour", "cover", "layer", "level"],
+          "correct": 2
+        },
+        {
+          "id": 69,
+          "sentence": "I'll have to take the toy back to the shop to exchange it because the mechanism is ____.",
+          "options": ["blame", "defect", "false", "faulty"],
+          "correct": 3
+        },
+        {
+          "id": 70,
+          "sentence": "Dinner will be served ____ but we have time for a drink before then.",
+          "options": ["actually", "currently", "lately", "presently"],
+          "correct": 3
+        },
+        {
+          "id": 71,
+          "sentence": "He ____ at me to show he appreciated the joke.",
+          "options": ["glimpsed", "grinned", "sneered", "stared"],
+          "correct": 1
+        },
+        {
+          "id": 72,
+          "sentence": "They're ____ to build a new factory here.",
+          "options": ["planning", "pretending", "projecting", "suggesting"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "setId": 10,
+      "title": "Environment & Nature - Set 10",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 73,
+          "sentence": "There's a great ____ of pollution on the beaches this summer.",
+          "options": ["deal", "lot", "many", "number"],
+          "correct": 0
+        },
+        {
+          "id": 74,
+          "sentence": "It was not an accident. He did it on ____.",
+          "options": ["decision", "determination", "intention", "purpose"],
+          "correct": 3
+        },
+        {
+          "id": 75,
+          "sentence": "I've bought some attractive ____ and I'm going to make a dress out of it.",
+          "options": ["clothing", "costume", "material", "matter"],
+          "correct": 2
+        },
+        {
+          "id": 76,
+          "sentence": "Don't touch things that don't ____ to you!",
+          "options": ["belong", "involve", "own", "possess"],
+          "correct": 0
+        },
+        {
+          "id": 77,
+          "sentence": "There are so many ____ in the road that you have to drive very carefully.",
+          "options": ["bends", "crosses", "curls", "currents"],
+          "correct": 0
+        },
+        {
+          "id": 78,
+          "sentence": "I like the hat but it doesn't ____ me. Have you got the same thing in a larger size?",
+          "options": ["dress", "fit", "go well", "match"],
+          "correct": 1
+        },
+        {
+          "id": 79,
+          "sentence": "I'm very ____ to you for all your help.",
+          "options": ["agreed", "graceful", "grateful", "reliable"],
+          "correct": 2
+        },
+        {
+          "id": 80,
+          "sentence": "The school claims to ____ students all the English they need in three months.",
+          "options": ["explain", "instruct", "learn", "teach"],
+          "correct": 3
+        }
+      ]
+    },
+    {
+      "setId": 11,
+      "title": "Weather & Seasons - Set 11",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 81,
+          "sentence": "One of the water ____ burst during the recent cold weather and the kitchen was flooded.",
+          "options": ["channels", "conductors", "pipes", "tubes"],
+          "correct": 2
+        },
+        {
+          "id": 82,
+          "sentence": "I only ____ a straw hat to protect my head when the sun is very hot.",
+          "options": ["bear", "carry", "dress", "put"],
+          "correct": 1
+        },
+        {
+          "id": 83,
+          "sentence": "I'm afraid we haven't got what you want in ____ at the moment. We can order it for you.",
+          "options": ["reserve", "sale", "shop", "stock"],
+          "correct: 3
+        },
+        {
+          "id": 84,
+          "sentence": "I wasn't able to ____ the meeting because I was too busy.",
+          "options": ["assist", "attempt", "attend", "present"],
+          "correct": 2
+        },
+        {
+          "id": 85,
+          "sentence": "He ____ to hit me if I didn't do as he said.",
+          "options": ["pretended", "said", "thought", "threatened"],
+          "correct": 3
+        },
+        {
+          "id": 86,
+          "sentence": "He said he was not guilty but the police proved he had ____.",
+          "options": ["denied", "laid", "lay", "lied"],
+          "correct": 3
+        },
+        {
+          "id": 87,
+          "sentence": "I don't feel like swimming. I'd rather sun-bathe on the ____.",
+          "options": ["beach", "coast", "dust", "harbour"],
+          "correct": 0
+        },
+        {
+          "id": 88,
+          "sentence": "He bought his house on the ____ plan, paying a certain amount of money back to the bank every month.",
+          "options": ["hire", "instalment", "part", "piece"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "setId": 12,
+      "title": "Family & Relationships - Set 12",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 89,
+          "sentence": "He was the ____ child in the family so he had no brothers or sisters to play with.",
+          "options": ["alone", "individual", "lonely", "only"],
+          "correct": 3
+        },
+        {
+          "id": 90,
+          "sentence": "I haven't seen him ____ he came to dinner with us last week.",
+          "options": ["for", "meanwhile", "since", "when"],
+          "correct": 2
+        },
+        {
+          "id": 91,
+          "sentence": "He'll ____ his shyness when he's older.",
+          "options": ["get away", "get down", "get off", "get over"],
+          "correct": 3
+        },
+        {
+          "id": 92,
+          "sentence": "Throw some water on her face and then perhaps she'll ____.",
+          "options": ["come back", "come down", "come on", "come out"],
+          "correct": 0
+        },
+        {
+          "id": 93,
+          "sentence": "We've ____ bread. I'll have to go to the bakery to buy some more.",
+          "options": ["run away with", "run down", "run off", "run out of"],
+          "correct": 3
+        },
+        {
+          "id": 94,
+          "sentence": "The good service at the restaurant ____ the poor meal to some extent.",
+          "options": ["made for", "made out", "made over", "made up"],
+          "correct": 3
+        },
+        {
+          "id": 95,
+          "sentence": "Although the town had changed in the ten years since he had last visited it, much of it was still ____ to him.",
+          "options": ["accustomed", "common", "familiar", "relative"],
+          "correct": 2
+        },
+        {
+          "id": 96,
+          "sentence": "When she ____ dead, he ____ a lot of money from her.",
+          "options": ["earned", "inherited", "paid", "spent"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "setId": 13,
+      "title": "Entertainment & Leisure - Set 13",
+      "difficulty": "intermediate",
+      "questions": [
+        {
+          "id": 97,
+          "sentence": "This year the company made a ____ but next year we hope to make a profit.",
+          "options": ["loose", "lose", "loss", "lost"],
+          "correct": 2
+        },
+        {
+          "id": 98,
+          "sentence": "I'm afraid the lift is out of ____ so we'll have to walk up the stairs.",
+          "options": ["function", "movement", "order", "practice"],
+          "correct": 2
+        },
+        {
+          "id": 99,
+          "sentence": "I ____ to inform you that we cannot exchange articles once they have left the shop.",
+          "options": ["regret", "resent", "respect", "sense"],
+          "correct": 0
+        },
+        {
+          "id": 100,
+          "sentence": "I ____ hands with him when I was introduced to him.",
+          "options": ["gave", "greeted", "nodded", "shook"],
+          "correct": 3
+        },
+        {
+          "id": 101,
+          "sentence": "Would you ____ looking after the baby for me while I'm out?",
+          "options": ["agree", "like", "matter", "mind"],
+          "correct": 3
+        },
+        {
+          "id": 102,
+          "sentence": "I ____ you to drive carefully today. The roads are icy.",
+          "options": ["propose", "recommend", "refer", "regard"],
+          "correct": 1
+        },
+        {
+          "id": 103,
+          "sentence": "Good ____! I hope you win.",
+          "options": ["chance", "luck", "run", "sort"],
+          "correct": 1
+        },
+        {
+          "id": 104,
+          "sentence": "The trade ____ of the company is a flying horse.",
+          "options": ["brand", "class", "mark", "model"],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "setId": 14,
+      "title": "Technology & Communication - Set 14",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 105,
+          "sentence": "Stick this ____ on the parcel that says 'Fragile'. Then people will see that they must handle it carefully.",
+          "options": ["advertisement", "advice", "label", "sign"],
+          "correct": 2
+        },
+        {
+          "id": 106,
+          "sentence": "I've ____ for a job in Mexico. I hope I get it.",
+          "options": ["applied", "appointed", "implied", "presented"],
+          "correct": 0
+        },
+        {
+          "id": 107,
+          "sentence": "Look, Mother! James has brought you a ____ of flowers.",
+          "options": ["branch", "bucket", "bunch", "bush"],
+          "correct": 2
+        },
+        {
+          "id": 108,
+          "sentence": "Although the town had changed in the ten years since he had last visited it, much of it was still ____ to him.",
+          "options": ["accustomed", "common", "familiar", "relative"],
+          "correct": 2
+        },
+        {
+          "id": 109,
+          "sentence": "When she ____ dead, he ____ a lot of money from her.",
+          "options": ["earned", "inherited", "paid", "spent"],
+          "correct": 1
+        },
+        {
+          "id": 110,
+          "sentence": "This year the company made a ____ but next year we hope to make a profit.",
+          "options": ["loose", "lose", "loss", "lost"],
+          "correct": 2
+        },
+        {
+          "id": 111,
+          "sentence": "I'm afraid the lift is out of ____ so we'll have to walk up the stairs.",
+          "options": ["function", "movement", "order", "practice"],
+          "correct": 2
+        },
+        {
+          "id": 112,
+          "sentence": "I ____ to inform you that we cannot exchange articles once they have left the shop.",
+          "options": ["regret", "resent", "respect", "sense"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "setId": 15,
+      "title": "Advanced Grammar & Expression - Set 15",
+      "difficulty": "upper-intermediate",
+      "questions": [
+        {
+          "id": 113,
+          "sentence": "It wouldn't do you any ____ to smoke less.",
+          "options": ["ill", "damage", "harm", "use"],
+          "correct": 2
+        },
+        {
+          "id": 114,
+          "sentence": "She always ____ a knot in her handkerchief to remind her of something she has to forget.",
+          "options": ["fastens", "fixes", "ties", "does"],
+          "correct": 2
+        },
+        {
+          "id": 115,
+          "sentence": "We ____ not take our passports as we shan't be leaving the country.",
+          "options": ["may", "must", "ought", "need"],
+          "correct": 3
+        },
+        {
+          "id": 116,
+          "sentence": "Northern Europeans ____ to have fairer hair than people from further south.",
+          "options": ["incline", "used", "use", "dispose"],
+          "correct": 0
+        },
+        {
+          "id": 117,
+          "sentence": "Your basic salary will be £15,000 and ____ you'll receive generous travel expenses.",
+          "options": ["otherwise", "in addition", "else", "in all"],
+          "correct": 1
+        },
+        {
+          "id": 118,
+          "sentence": "She works as an operator at the local telephone ____.",
+          "options": ["centre", "exchange", "office", "headquarters"],
+          "correct": 1
+        },
+        {
+          "id": 119,
+          "sentence": "I am ____ to have a quiet week-end.",
+          "options": ["hoping", "looking forward", "used", "wishing"],
+          "correct": 0
+        },
+        {
+          "id": 120,
+          "sentence": "A British doctor writes a ____ for medicine which a chemist or dispenser makes up.",
+          "options": ["prescription", "recipe", "receipt", "certificate"],
+          "correct": 0
+        }
+      ]
+    }
+  ]
+}
